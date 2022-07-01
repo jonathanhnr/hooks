@@ -1,0 +1,6 @@
+root = true
+
+[*.jsx]
+indent_size = tab
+tab_width = 2
+
